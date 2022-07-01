@@ -9,7 +9,7 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 
 #### 无人驾驶小车制造与控制实践实习安排
 
-![实习安排](Git_source\swjtu_2022_summer\README\实习安排.jpg)
+![实习安排](README/%E5%AE%9E%E4%B9%A0%E5%AE%89%E6%8E%92.jpg)
 
 #### 安装教程
 
