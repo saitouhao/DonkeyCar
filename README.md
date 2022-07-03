@@ -12,4 +12,4 @@
 
 1. [DonkeyCar官方文档](https://docs.donkeycar.com/)
 2. [DonkeyCar视频教程(bilibili)](https://www.bilibili.com/video/BV1Mk4y1y7bj)
-3. [创客智造教程](https://www.ncnynl.com/category/DonkeyCar/)
+3. [创客智造DonkeyCar；教程](https://www.ncnynl.com/category/DonkeyCar/)
